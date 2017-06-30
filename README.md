@@ -80,11 +80,13 @@ Please fork and submit pull requests with your suggestions. Feel free to include
     - ArcPy
     - PyQGIS
     - GDAL/OGR
+	- Shapely
+	- pyodbc
  * PHP
  * Ruby
  * HTML / CSS
  * JavaScript
- * SQL / MySQL
+ * SQL / MySQL 
  * R
  * C#
  * .Net
